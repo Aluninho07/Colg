@@ -1,0 +1,31 @@
+h3{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+header{
+  background-color: Black
+}
+body{
+  background: -webkit-gradient(linear, left top, right top, from(#FFB5F4), to(#F7D7F7));
+
+
+}
+h1{
+color: white
+}
+li{
+  text-align: center;
+  color: yellow
+
+
+}
