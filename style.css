@@ -16,7 +16,7 @@ header{
   background-color: Black
 }
 body{
-  background: -webkit-gradient(linear, left top, right top, from(#FFB5F4), to(#F7D7F7));
+  background: -webkit-gradient(linear, left top, right top, from(#3e3932), to(#9d9382));
 
 
 }
@@ -24,8 +24,15 @@ h1{
 color: white
 }
 li{
-  text-align: center;
+  text-align: left;
   color: yellow
 
 
 }
+img
+position: absolute;
+width: 261.18px;
+height: 273px;
+
+background: url(Screenshot_20230323-091053_Instagram.jpg);
+border-radius: 724.5px;
